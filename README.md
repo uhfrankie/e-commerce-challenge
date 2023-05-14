@@ -8,6 +8,7 @@ SO THAT my company can compete with other e-commerce companies
 </p>
 
 <h2> Live Website </h2>
+https://646030a2f1d26426a1c5aaf3--monumental-haupia-2b230e.netlify.app/
 
 ## Questions
 If have any questions for me, please [contact me](mailto:frankie01marie@yahoo.com).
